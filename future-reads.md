@@ -1,0 +1,12 @@
+- The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory: Michael Hale Ligh
+- Code: The Hidden Language of Computer Hardware and Software: Charles Petzold
+- Discrete Mathematics with Applications: Susanna Epp
+- Understanding Cryptography: From Established Symmetric and Asymmetric Ciphers to Post-Quantum Algorithms: Christof Paar
+- Practical Statistics for Data Scientists, 50+ Essential Concepts Using R and Python: Peter Bruce
+- Digital Design and Computer Architecture, RISC-V Edition: Sarah Harris
+- The book of Kubernetes, a complete guide to container orchestration: Alan Hohn
+- Practical Packet Analysis, 3rd edition: Chris Sanders
+- Practical Vulnerability Management, a strategic approach to managing cyber risk: Andrew Magnusson
+- Practical Linux Forensics, a guide to digital investigators: Bruce Nikkel
+- Object Oriented Python, master OOP by building games and GUIs: Irv Kalb
+- Serious Python, Black belt advice on deployment, scalability, testing, and more: Julien Danjou
