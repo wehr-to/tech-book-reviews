@@ -1,5 +1,4 @@
 - The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory: Michael Hale Ligh
-- Code: The Hidden Language of Computer Hardware and Software: Charles Petzold
 - Discrete Mathematics with Applications: Susanna Epp
 - Understanding Cryptography: From Established Symmetric and Asymmetric Ciphers to Post-Quantum Algorithms: Christof Paar
 - Practical Statistics for Data Scientists, 50+ Essential Concepts Using R and Python: Peter Bruce
@@ -10,3 +9,8 @@
 - Practical Linux Forensics, a guide to digital investigators: Bruce Nikkel
 - Object Oriented Python, master OOP by building games and GUIs: Irv Kalb
 - Serious Python, Black belt advice on deployment, scalability, testing, and more: Julien Danjou
+- C++ Concurrency in action: Anthony Williams
+- C++ Software Design Principles and patterns, Klaus Iglberger
+- C++ Crash course, a fast paced introduction, Josh Lospinoso
+- Mastering API architecture, James Gough
+- Fundamentals of software architecture, Mark Richards
